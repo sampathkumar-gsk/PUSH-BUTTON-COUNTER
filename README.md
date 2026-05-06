@@ -32,3 +32,4 @@ The temperature sensor reads temperature data and displays it on the Serial Moni
 
 ## Output
 - Temperature values are displayed successfully on the Serial Monitor.
+- <img width="1600" height="729" alt="Image" src="https://github.com/user-attachments/assets/060daab5-92d7-4ffc-b85b-ce1ebbb14dd6" />
